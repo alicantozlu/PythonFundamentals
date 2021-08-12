@@ -1,1 +1,1 @@
-Basic Python course
+Basic Python Course
